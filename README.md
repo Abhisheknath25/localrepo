@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Generator (Python)
 
 ## 📌 Project Overview
@@ -92,3 +93,6 @@ Possible upgrades:
 
 B.Tech Computer Science Engineering
 Aspiring AI/ML Engineer
+=======
+# localrepo
+>>>>>>> c61a30d022ae25446e385641f9e30c87035588a5
